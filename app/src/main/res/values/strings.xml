@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Furniture App</string>
+    <string name="explore_what_you_home_needs">Explore What\nYou Home Needs</string>
+    <string name="placeholder">Chair,Desk,Sofa etc</string>
+    <string name="categories">Categories</string>
+    <string name="popular">Popular</string>
+    <string name="room_desc">Furniture for every corners in your home</string>
+    <string name="rooms">Rooms</string>
+    <string name="_98_reviews">98 Reviews</string>
+    <string name="chip_desc">As you step into the cozy living room, you are greeted by an inviting and warm ambiance. The room features soft earthy tones on the walls, creating a soothing atmosphere. The large windows allow natural light to flood the space during the day, giving a sense of openness and serenity.</string>
+    <string name="recommended_sofa">Sofa you might like</string>
+    <string name="add_to_bag">Add to Bag</string>
+    <string name="my_shopping_bag">My Shopping Bag</string>
+    <string name="proceed_to_checkout">Proceed to checkout</string>
+    <string name="total">Total</string>
+</resources>
